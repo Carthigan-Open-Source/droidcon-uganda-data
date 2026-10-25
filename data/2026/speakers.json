@@ -1,0 +1,477 @@
+[
+  {
+    "id": "b1f67617-15c5-45d7-a3d0-cc6a7b7017ad",
+    "firstName": "Aditya",
+    "lastName": "Sadalage",
+    "fullName": "Aditya Sadalage",
+    "bio": "Aditya is the founder of an ERP startup, currently in stealth mode. He majored in Computer Science Engineering along with a minor in Entrepreneurship at the University of Michigan. He worked as a Backend Software Engineer at JStor, before moving to Silicon Valley to work at Dgraph Labs and other startups. He currently resides in East Africa.",
+    "tagLine": "Founder, Stealth Startup",
+    "profilePicture": "https://cdn.sessionize.com/image/942e-400o400o1-S2dACWPM7TSquUtWfwrrv7.jpg",
+    "sessions": [
+      {
+        "id": 1332023,
+        "name": "Migrating a webapp to Kotlin Multiplatform... Mpola mpola"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "d301377d-23d5-46b6-9b4f-ddb75e2d801d",
+    "firstName": "Ahmed",
+    "lastName": "Nabil",
+    "fullName": "Ahmed Nabil",
+    "bio": "Android Google Developer Expert, Senior Software Tech Lead with 25+ years of expertise, coding since age 11. I specialize in high-scale mobile architecture, with a focus on Android, Jetpack Compose, and KMP. Beyond leading 10M+ download projects, I’m a passionate open-source contributor. I’ve mentored 100k+ developers via tech talks across 6 countries. I bridge complex engineering with clean, community-driven code. https://linktr.ee/AhmedNMahran",
+    "tagLine": "Google Developers Expert (GDE) for Android",
+    "profilePicture": "https://cdn.sessionize.com/image/6b0d-400o400o1-QiGrA2NR21vGWh53vQNve4.png",
+    "sessions": [
+      {
+        "id": 1300057,
+        "name": "Bridging the Gap: How We Built Hybrid Mobile AI Before Google Made it Native"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "3739195a-6a3a-46c8-9de9-08e3dc9635f7",
+    "firstName": "Badreddine",
+    "lastName": "Kouki",
+    "fullName": "Badreddine Kouki",
+    "bio": "A seasoned Mobile App Engineer with more than 7 years of specialized experience in both Flutter and Kotlin. I've successfully developed a wide range of applications, from complex solutions in the Automotive and Fintech industries to vital tools in e-Health, showcasing deep technical acumen and adaptability.",
+    "tagLine": "Senior mobile developer @TechMahindra, Flutter Contributor",
+    "profilePicture": "https://cdn.sessionize.com/image/1156-400o400o1-9P8qi6FnadSUC4hFoJYnxj.jpg",
+    "sessions": [
+      {
+        "id": 1325383,
+        "name": "Remote Theme Engine for Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "4100ff92-3484-42ea-8b8d-a2587dbd026a",
+    "firstName": "Bashir",
+    "lastName": "Kasujja",
+    "fullName": "Bashir Kasujja",
+    "bio": "I'm passionate about technology and love tackling big challenges. As a Software Engineering enthusiast, I find joy in the dynamic world of coding, always eager to learn and build meaningful projects. Whether leading a team or collaborating, I thrive in problem-solving, combining creativity with innovative solutions.\r\n\r\nMy dream is to be a recognised and respected software engineer, celebrated for impactful contributions and a commitment to excellence. Beyond individual success, I aspire to leave a positive mark on the tech community by contributing to advancements and innovation.\r\n\r\nLet's connect and create something amazing together! Whether it's exploring new technologies, sharing ideas, or collaborating on projects, I'm excited about the endless possibilities that lie ahead in the ever-evolving landscape of technology.",
+    "tagLine": "Mobile and Website Developer",
+    "profilePicture": "https://cdn.sessionize.com/image/72a1-400o400o1-7m5k47TZLQE1FVZhnawg28.jpg",
+    "sessions": [
+      {
+        "id": 1207862,
+        "name": "Effective App Architecture & State Management in Flutter"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "328289dc-6e74-45b4-ba4e-294019c8a2a8",
+    "firstName": "Bernard",
+    "lastName": "Banta",
+    "fullName": "Bernard Banta",
+    "bio": "Bernard Banta is the CTO and co-founder of Finplus Group. He is also Chairman at African Ruby Community. With over 15 years working in tech, Banta is passionate about how technology can be used to transform Africa.",
+    "tagLine": "Co-founder and CTO at Finplus Group Africa",
+    "profilePicture": "https://cdn.sessionize.com/image/e8a3-400o400o1-YT9d246ZTivJ6fk37KPU1A.jpg",
+    "sessions": [
+      {
+        "id": 1227332,
+        "name": "Sanarei: Offline Web Browsing"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "49794b06-6c8b-4c6e-9b0a-fe65f2388fe9",
+    "firstName": "Caroline Nicole",
+    "lastName": "Letaru",
+    "fullName": "Caroline Nicole Letaru",
+    "bio": "Caroline Nicole Letaru is a globally recognized Career Coach and Talent Strategist at Kazini Consults, with over 6 years of experience empowering tech professionals across 12+ countries. She is known for helping developers and emerging tech leaders unlock international opportunities through strategic career planning, skill building, and high-impact coaching.\r\n\r\nNicole has led technical recruitment for global institutions such as the United Nations and UNHCR, and has coached over 500+ professionals including software engineers, PowerShell, UX designers, and AI specialists helping them transition into global careers and remote work ecosystems.\r\n\r\nShe is a seasoned international speaker who has graced renowned stages including the International AIDS Society Conference (Germany), Going Global Conference (UK), and the SCORE Conference (Tanzania). Her thought leadership earned her the Best Essay Award at the South American Business Forum (SABF) in Argentina, recognizing her voice on youth, development, and innovation.\r\n\r\nNicole’s work focuses on building future-proof careers for African professionals in tech. Through Kazini Consults, she leads a community-first approach that equips talents to scale their impact with confidence, clarity, and visibility.",
+    "tagLine": "Kazini Consults | Career Coach & Talent Strategist | Empowering Tech Professionals to Level Up",
+    "profilePicture": "https://cdn.sessionize.com/image/15ea-400o400o1-wQBQ6RpACYXbVNtHeACHcG.jpg",
+    "sessions": [
+      {
+        "id": 1213100,
+        "name": "Your Android Projects Aren’t Helping You — Here’s Why"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "6da5ca01-1ba4-447a-a3a0-79d5e564550a",
+    "firstName": "Eden",
+    "lastName": "Gilbert",
+    "fullName": "Eden Gilbert",
+    "bio": "Eden Gilbert Kiseka is a Software Engineer & Systems Engineer. Currently Working at Victoria University & Googah Goats \r\n\r\n",
+    "tagLine": "Software Engineer & Systems Engineer",
+    "profilePicture": "https://cdn.sessionize.com/image/3bc1-400o400o1-BAcBf9uW4sLQv7GCRBuuHE.jpg",
+    "sessions": [
+      {
+        "id": 1325458,
+        "name": "Building a Music DAW on Android: JNI, Real-Time Audio, and OpenGL Rendering"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "c77c65eb-f19e-4b32-97ce-41b5882114bc",
+    "firstName": "Faith Uniter ",
+    "lastName": "Nyakerario",
+    "fullName": "Faith Uniter Nyakerario",
+    "bio": "Faith Uniter Nyakerario is an open-source contributor, software developer, and technical writer with experience across projects and communities including Ceph, JupyterHub, F-Droid, Tor, The Good Docs Project and the Nairobi Linux User Group (NAILUG). She joined The Good Docs Project to deepen her documentation skills, learn from experienced technical writers and contribute to resources that help open-source communities create better documentation. Based in Nairobi, Kenya,Faith brings the same curiosity and creativity to life outside of technology. She loves making breakfast sandwiches and experimenting with recipes for her family. She also enjoys making mocktails, which she sees as a fun way to explore the chemistry of different flavors and how they combine to create beautiful color palettes. She enjoys kicking a ball around with her children, watching favorite childhood shows with her daughter, reading, dancing and going to the gym. At the heart of Faith’s approach to life is a simple philosophy: there is only doing, not just trying. She believes in living fully, embracing the finite nature of life and approaching everyday moments with intention and a little whimsy!",
+    "tagLine": "Software Engineer",
+    "profilePicture": "https://cdn.sessionize.com/image/5428-400o400o1-wv89d9keGhbzTiwXLHquGs.jpg",
+    "sessions": [
+      {
+        "id": 1331409,
+        "name": "Running Android on your Raspberry  Pi"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "5ccb7efb-bc24-41f7-b2c4-100ec0432b3d",
+    "firstName": "Georges",
+    "lastName": "Byona",
+    "fullName": "Georges Byona",
+    "bio": "Software Engineer and AI Researcher specializing in cross-platform development and community leadership. Former GDG Lead and Organizer of the FlutterFire Summer Camp. Dedicated Tech Trainer, Content Creator, and international Speaker empowering the next generation of developers.",
+    "tagLine": "Software Engineer, Founder & Community Lead",
+    "profilePicture": "https://cdn.sessionize.com/image/8fb8-400o400o1-72srYMKK3XPBX5BamdTEKD.png",
+    "sessions": [
+      {
+        "id": 1307439,
+        "name": "On-Device AI with Flutter & Gemma: Building Offline-First AI Mobile Apps for Africa"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "3df141ab-8b9e-4e55-b30a-4de98d154789",
+    "firstName": "Gidudu Muyobo",
+    "lastName": "Nicholas",
+    "fullName": "Gidudu Muyobo Nicholas",
+    "bio": "I am a software developer with great interest in flutter. I am lead Organiser for Flutter Kampala and GDG Bugiri",
+    "tagLine": "Software Developer ",
+    "profilePicture": "https://cdn.sessionize.com/image/732a-400o400o1-BrJQb4EYwbHb5wTcfWJWbT.jpg",
+    "sessions": [
+      {
+        "id": 1357177,
+        "name": "Build Your First Full-Stack Flutter App with Genkit Dart"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "ecf88eef-27b3-4b0f-af79-1350ecfcc5e7",
+    "firstName": "Joshua",
+    "lastName": "Musyoki",
+    "fullName": "Joshua Musyoki",
+    "bio": "Joshua Musyoki is an Android Engineer, He crafts clean and scalable mobile solutions used by real users. He builds not just for users, but for developers also with a strong focus on performance, usability, and impact at scale. Passionate about developer tools, open-source, and clean architecture, Joshua is currently exploring how to simplify Android development by building reusable libraries and improving developer experience (DX). A firm believer in continuous learning, he’s always evolving  whether it’s through mentoring, contributing to community projects, or staying on the edge of Android’s ever-growing ecosystem. For Joshua, it’s all about building for builders and making tools that matter.",
+    "tagLine": "Android Engineer.",
+    "profilePicture": "https://cdn.sessionize.com/image/5b3f-400o400o1-Gk4GNRmbi5qWyieioYTkgT.png",
+    "sessions": [
+      {
+        "id": 1316317,
+        "name": "Shipping KMP with Confidence: Automated Testing and Modular CI/CD Frameworks"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "7e5aa89d-00aa-458f-8e58-0734e992bb4b",
+    "firstName": "Julian Zaabu",
+    "lastName": "Kayikayi",
+    "fullName": "Julian Zaabu Kayikayi",
+    "bio": "Julian Zaabu Kayikayi is a Social Work professional from Makerere University, where she graduated among the top 0.5 percent of her year with First Class Honours. She is Co-founder and Research Lead at Research Code Respond, a youth-led initiative in Uganda that integrates social research and technology to address social challenges across Africa. At RCR, she leads the research agenda, designs the bootcamp curriculum, mentors young innovators, and currently leads project management for an ongoing project on women in male dominated professions. Her work is a testament to her commitment to digitizing social work.\r\nJulian's work is driven by a deep commitment to the empowerment of youth, women and girls. She is a Young Female Leader with The Amazon Leadership Initiative, a community of young women across Africa committed to transformative leadership and social change. She advocates actively against gender-based discrimination, channelling that advocacy through research, writing, policy engagements  at Chatham House, common future conversations and the design of practical tools that create safer and more equitable spaces for women.\r\nHer field experience spans community development, child protection, psychosocial support, and HIV counselling across Uganda. She has presented research at the International Conference on Social Work and Social Development and completed an international programme on migration and refugees at Howest University in Bruges, Belgium. Her work and research consistently centre the experiences of refugees and marginalised communities, reflecting a long-standing commitment to social justice.\r\nAs an aspiring social work academic, Julian's key areas of focus are research, digital social work, youth empowerment, women empowerment, mental health, and refugee wellbeing. She believes that young Africans have the power to build the solutions their communities need and has dedicated her career to proving it.\r\n\r\n",
+    "tagLine": "Research Code Respond, Co-founder ",
+    "profilePicture": "https://cdn.sessionize.com/image/79a3-400o400o1-a4jCnLpwVbSitm3e1fMCwQ.png",
+    "sessions": [
+      {
+        "id": 1252576,
+        "name": "Building for Ourselves: Why Open Source and Local-First Mobile Apps Matter for African Developers"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "0ecb1f6d-5a45-4f98-81c6-97fb9349a30a",
+    "firstName": "Kartik",
+    "lastName": "Setia",
+    "fullName": "Kartik Setia",
+    "bio": "I am an Android developer with extensive experience in building modern, user-centric mobile applications. My expertise spans Kotlin, Jetpack Compose, and cutting-edge Android features, including Android 15 enhancements. I have worked on diverse projects, from creating robust mobile apps to integrating advanced media solutions like Camera2. I am passionate about exploring emerging trends, such as Kotlin Multiplatform and AI in mobile development, and enjoy sharing knowledge through talks, workshops, and community contributions. Recently, I attended Droidcon London 2024, gaining deep insights into the latest advancements in Android development, which I am eager to share with the developer community.",
+    "tagLine": "Sr Software Engineer , Vyntelligence UK",
+    "profilePicture": "https://cdn.sessionize.com/image/d665-400o400o1-46v86Rgdpd88ri6TcVB3K7.png",
+    "sessions": [
+      {
+        "id": 1344415,
+        "name": "From Android Forms to First-Person Capture: Building Hands-Free Workflows with Meta Glasses"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "3b707230-2684-4d48-8867-76b2e2814034",
+    "firstName": "Kevin Ziyada",
+    "lastName": "Aseru",
+    "fullName": "Kevin Ziyada Aseru",
+    "bio": "Kevin Ziyada Aseru is a Software Developer, AI/ML Engineer, and UI/UX Designer based in Kampala, Uganda. She serves as the technical lead and mentor at the Research Code Academy, driving technical excellence across pan-African developer cohorts. As a co-founder of the innovation studio Research Code Respond (RCR), Kevin builds community-centered digital frameworks that merge advanced data engineering with ethical technology solutions to solve regional societal challenges.",
+    "tagLine": "Software Developer & Lead Engineer | Co-Founder, Research Code Respond",
+    "profilePicture": "https://cdn.sessionize.com/image/1d59-400o400o1-Rq3isS9NBUuA2w6KoiYJ2w.jpg",
+    "sessions": [
+      {
+        "id": 1252576,
+        "name": "Building for Ourselves: Why Open Source and Local-First Mobile Apps Matter for African Developers"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "ce463143-3029-4f37-a7e4-0fa2de968768",
+    "firstName": "Okurut",
+    "lastName": "Joe",
+    "fullName": "Okurut Joe",
+    "bio": "A  developer with intermediate experience in Flutter, C++, and hardware integration via Arduino. I enjoy building seamless cross-platform applications and bringing hardware projects to life with clean, version-controlled code using Git. I am always eager to learn, build, and connect with fellow developers in the tech community.",
+    "tagLine": "Carthigan",
+    "profilePicture": "https://cdn.sessionize.com/image/4db7-400o400o1-hYAeNeHez7P7GnPAfhKWFj.jpg",
+    "sessions": [
+      {
+        "id": 1325458,
+        "name": "Building a Music DAW on Android: JNI, Real-Time Audio, and OpenGL Rendering"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "6fa84959-df7e-4463-9a49-a464ff7c915c",
+    "firstName": "Omar",
+    "lastName": "Farouk",
+    "fullName": "Omar Farouk",
+    "bio": "With a strong foundation in university teaching in Lomé, I am a Senior Full Stack Software and AI Engineer with 7 years of professional experience. I am the Founder of KofCorporation, and I also serve as a Software Consultant for both the UNDP and Kingoo.\r\nPresently, I am a Software and AI Engineer at Hope Partners in Dubai.",
+    "tagLine": "Google Developer Expert in Flutter & Dart | Senior Software Engineer Full Stack | CEO KOFCORPORATION | UNDP Consultant",
+    "profilePicture": "https://cdn.sessionize.com/image/60c8-400o400o1-sFfYsJLjhyEeYB12D2zFbr.jpg",
+    "sessions": [
+      {
+        "id": 1274139,
+        "name": "One Language, Full Stack: Agentive Flutter UI with genui_catalog + Serverpod"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "43c05aba-02d0-4197-98b2-a77b45834a33",
+    "firstName": "Omu",
+    "lastName": "Obilor",
+    "fullName": "Omu Obilor",
+    "bio": "Omu Obilor is an international leadership consultant, executive coach, keynote speaker, and transformational trainer dedicated to developing courageous, emotionally intelligent leaders across Africa and beyond. She is the Principal Consultant at Omu Consulting and Managing Partner of AfriLeap Labs, where she equips executives, entrepreneurs, and organizations to lead with authenticity, influence, and impact.\r\n\r\nA Founding Member of the John Maxwell Team and certified in Executive Coaching, Emotional Intelligence, Brain Health, Neuroencoding, and Intelligent Leadership, Omu has trained leaders in corporate organizations, government, healthcare, and professional associations. She is the creator of The Authentic Presence Blueprint™, a practical framework that helps leaders strengthen executive presence, build high-performing teams, and thrive in an increasingly complex world.\r\n\r\nHer mission is to empower leaders to Lead Bold, Stand Tall, and Own the Room, creating lasting transformation in people, organizations, and communities.",
+    "tagLine": "Transformational Leadership Expert | Executive Coach | Certified AI Master Trainer | International Speaker",
+    "profilePicture": "https://cdn.sessionize.com/image/3e9a-400o400o1-7Hy1raCTHAGvXDZygxfJ9u.jpg",
+    "sessions": [
+      {
+        "id": 1288289,
+        "name": "Leading with Trust: Ethics and Leadership in the Age of AI"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "ccbaae44-9566-4621-a64e-aaa4358a6e6b",
+    "firstName": "Paul",
+    "lastName": "Mayero",
+    "fullName": "Paul Mayero",
+    "bio": "Paul is an experienced  developer with over 5 years of professional experience in software development. He is highly skilled in building scalable and secure web applications using various technologies.\r\n\r\nPaul is an active member of the open-source community and has contributed to various open-source projects such as F-Droid and Open stack. He is passionate about helping other developers learn and grow, and he enjoys mentoring  developers and sharing his knowledge and expertise with others.\r\n\r\n",
+    "tagLine": "Open-source believer",
+    "profilePicture": "https://cdn.sessionize.com/image/5f79-400o400o1-H4ydW8rRe2xuWysmDKyNgb.jpg",
+    "sessions": [
+      {
+        "id": 1331409,
+        "name": "Running Android on your Raspberry  Pi"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "0b5c3ad5-0345-4def-9183-1654f6eb2a28",
+    "firstName": "Preethi ",
+    "lastName": "Srinivas",
+    "fullName": "Preethi Srinivas",
+    "bio": "Preethi is UX Researcher at Google, with current focus on Jetpack Compose. She has passion for understanding the needs supporting elegant developer experiences. Prior to Google, she worked on designing products and services influencing delightful behavior change.",
+    "tagLine": "User Experience Researcher, Google",
+    "profilePicture": "https://cdn.sessionize.com/image/d5fd-400o400o1-LvRmss1X2wF7zMAVxsMYta.png",
+    "sessions": [
+      {
+        "id": 1363548,
+        "name": "Beyond the hype: What user research tells us about agentic Android workflows"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "a13934a7-6137-4a94-9a03-84919fce12f4",
+    "firstName": "Rafa",
+    "lastName": "Moreno",
+    "fullName": "Rafa Moreno",
+    "bio": "Currently a software engineer working on making your trips experience delightful on the Airbnb app",
+    "tagLine": "Senior Software Engineer at Airbnb",
+    "profilePicture": "https://cdn.sessionize.com/image/5665-400o400o1-KcunvhBajrWi5zupuooD3a.png",
+    "sessions": [
+      {
+        "id": 1237238,
+        "name": "Go Beyond the Prompt: Using Context to Build Reliable AI-Assisted Android Workflows"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "a8eddeff-f9d3-41b0-a516-71a76be268e5",
+    "firstName": "Siro",
+    "lastName": "Devs",
+    "fullName": "Siro Devs",
+    "bio": "Software engineer and a Technical Writer",
+    "tagLine": "Software Engineer",
+    "profilePicture": "https://cdn.sessionize.com/image/3788-400o400o1-KpevK4eXgsn8bXRCPcdgzx.jpg",
+    "sessions": [
+      {
+        "id": 1330466,
+        "name": "Optimizing Your Flutter App for the Web"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "aeb2023f-4e93-4add-be7a-1d0491d07ddf",
+    "firstName": "Steph ",
+    "lastName": "Farid",
+    "fullName": "Steph Farid",
+    "bio": null,
+    "tagLine": "DevRel Engineer at Typesense",
+    "profilePicture": "https://cdn.sessionize.com/image/c1e7-400o400o1-M4h2zqCeRyBW2YkSeX4nfc.jpg",
+    "sessions": [
+      {
+        "id": 1363526,
+        "name": "Building Lightning-Fast Search with Typesense"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "9f2d338a-ce8b-4f23-8d68-9d5a22e64411",
+    "firstName": "Tanimowo",
+    "lastName": "Obaloluwa  David",
+    "fullName": "Tanimowo Obaloluwa  David",
+    "bio": "Tanimowo Obaloluwa David is a Nigerian tech enthusiast and developer known for his passion for building innovative digital solutions. He specializes in mobile app development using Flutter and Java, along with strong skills in UI/UX design, web development, and backend technologies like Firebase and SQL. Starting his coding journey at a young age, he has explored areas such as game development and ethical hacking before focusing on mobile development. David is dedicated to using technology to solve real-world problems, continuously improving his skills, and creating impactful applications that enhance user experience and contribute to the growth of the tech ecosystem.\r\n",
+    "tagLine": "Senior Software Engineer — Mobile, Web & Cloud",
+    "profilePicture": "https://cdn.sessionize.com/image/9254-400o400o1-Pzo1wNbwxAbo7JgenCZjEp.jpg",
+    "sessions": [
+      {
+        "id": 1290801,
+        "name": "Kotlin Multiplatform: What I Learned Prototyping It So You Don't Have To"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "cf0cb649-8401-45ba-a6b4-d730cbcb432d",
+    "firstName": "Valentine",
+    "lastName": "Rutto",
+    "fullName": "Valentine Rutto",
+    "bio": "Learn | Build | Inspire",
+    "tagLine": "Software Developer - Android",
+    "profilePicture": "https://cdn.sessionize.com/image/daeb-400o400o1-f1porV7kFi2pAhYQEyhx3G.jpg",
+    "sessions": [
+      {
+        "id": 1287249,
+        "name": "Build Smarter Android Apps: A Hands-On Codelab for Cloud and On-Device AI"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  },
+  {
+    "id": "9a92486d-2065-4979-a17e-9d94bfc076f2",
+    "firstName": "Victor",
+    "lastName": "Turuthi",
+    "fullName": "Victor Turuthi",
+    "bio": "Victor is a seasoned technology expert with over four years of hands-on experience in Ruby development. As a co-founder of Cyberaskari Ltd, he played a pivotal role in its success before joining Finplus Group. At Finplus, he has developed and maintained a SACCO Management Information System, which is now a crucial tool for major SACCOs in southern Africa. He has also developed payment and e-commerce systems used by banks and micro-finance organisations in Africa. \r\n\r\nBeyond his professional achievements, Victor is deeply committed to community service. As a passionate preacher of the gospel of Christ, he dedicates his time to helping individuals transform their lives through mentorship and support. His devotion to his professional endeavours and community involvement underscores his desire to create a positive impact that transcends the tech world and enriches everyday lives. ",
+    "tagLine": "Software Engineer - Finplus Group Ltd",
+    "profilePicture": "https://cdn.sessionize.com/image/644e-400o400o1-fXtW6oZDE3jSM1gHjAxgrh.jpg",
+    "sessions": [
+      {
+        "id": 1332063,
+        "name": "The Code Passed. Is It Right?"
+      }
+    ],
+    "isTopSpeaker": false,
+    "links": [],
+    "questionAnswers": [],
+    "categories": []
+  }
+]
