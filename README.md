@@ -22,12 +22,28 @@ data/
 │   ├── conference.json  # event metadata: venue, address, maps link, dates, timezone, website, hashtag
 │   ├── speakers.json    # 25 speakers (from /view/Speakers)
 │   ├── all.json         # full dataset: sessions, speakers, rooms, categories, questions (from /view/All)
+│   ├── conference_data_2026.json  # iosched/Carthigan app schema (generated — see tools/)
 │   └── images/          # speaker headshots (profilePicture URLs point here)
 └── 2025/
     ├── speakers.json    # 20 speakers (from /view/Speakers)
     ├── all.json         # full dataset for the 2025 event
     └── images/          # 2025 speaker headshots
 ```
+
+### conference_data_2026.json
+
+The schema consumed by the Carthigan DroidconUganda app (derived from Google's
+iOSched ConferenceData format): `rooms`, `sessions` (epoch-millis UTC times),
+`speakers` (id-keyed map) and `tags` (filter chips). It is **generated** from
+`all.json` by `tools/sessionize_to_iosched.py`:
+
+```bash
+python3 tools/sessionize_to_iosched.py data/2026/all.json data/2026/conference_data_2026.json
+```
+
+The app fetches it from
+`https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2026/conference_data_2026.json`
+and ships the same file as its offline bootstrap data.
 
 ### conference.json
 
