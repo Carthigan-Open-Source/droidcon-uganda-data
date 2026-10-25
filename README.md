@@ -19,12 +19,27 @@ Sessionize directly.
 ```
 data/
 ├── 2026/
-│   ├── speakers.json   # 25 speakers (from /view/Speakers)
-│   └── all.json        # full dataset: sessions, speakers, rooms, categories, questions (from /view/All)
+│   ├── conference.json  # event metadata: venue, address, maps link, dates, timezone, website, hashtag
+│   ├── speakers.json    # 25 speakers (from /view/Speakers)
+│   ├── all.json         # full dataset: sessions, speakers, rooms, categories, questions (from /view/All)
+│   └── images/          # speaker headshots (profilePicture URLs point here)
 └── 2025/
-    ├── speakers.json   # 20 speakers (from /view/Speakers)
-    └── all.json        # full dataset for the 2025 event
+    ├── speakers.json    # 20 speakers (from /view/Speakers)
+    ├── all.json         # full dataset for the 2025 event
+    └── images/          # 2025 speaker headshots
 ```
+
+### conference.json
+
+Event-level metadata for the app (venue, schedule boundaries, links):
+
+| Field | Description |
+|-------|-------------|
+| `venue.name`, `venue.address`, `venue.mapsUrl` | Physical venue + Google Maps link |
+| `startDate`, `endDate`, `dailyStartTime/EndTime` | Conference days and daily hours (event-local times) |
+| `timezone`, `utcOffset` | Africa/Kampala, +03:00 (EAT) — all session times in `all.json` are in this timezone |
+| `website`, `ticketsUrl`, `hashtag` | Official links |
+| `rooms` | Track/room names (also present per-session in `all.json` via `roomId`) |
 
 ### Speaker object shape
 
