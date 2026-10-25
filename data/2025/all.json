@@ -23,7 +23,7 @@
     {
       "id": "982621",
       "title": "Supercharging Android Apps with On-Device AI: Gemini Nano ",
-      "description": "\r\n\r\nThe mobile AI revolution is increasingly moving on-device, driven by demands for privacy, low latency, and offline capability. In this session, I’ll demonstrate how to leverage cutting-edge on-device AI tools—including Gemini Nano, Google Edge AI SDK, and MediaPipe LLM Inference APIs—to build intelligent Android apps entirely on-device.\r\n\r\nKey Takeaways:\r\n\r\n- On-Device AI Landscape: Understand the shift from cloud to on-device AI, the privacy benefits, and real-world use cases for features like smart reply, summarization, image analysis, and more.\r\n- Getting Started with Gemini Nano: Walk through integrating Google’s Gemini Nano generative model into a modern Android app, highlighting both ML Kit GenAI APIs and the experimental AI Edge SDK for custom scenarios.\r\n- Beyond Gemini: MediaPipe, LiteRT, and Custom Models: Explore the MediaPipe ecosystem for LLM (large language model) inference on-device, and how to bring your own models using LiteRT/TensorFlow Lite for specialized tasks.\r\n- Production Considerations: Address model size, device compatibility, privacy, and performance optimization—lessons learned from deploying AI features at scale in consumer and enterprise Android apps.\r\n",
+      "description": "\r\n\r\nThe mobile AI revolution is increasingly moving on-device, driven by demands for privacy, low latency, and offline capability. In this session, I\u2019ll demonstrate how to leverage cutting-edge on-device AI tools\u2014including Gemini Nano, Google Edge AI SDK, and MediaPipe LLM Inference APIs\u2014to build intelligent Android apps entirely on-device.\r\n\r\nKey Takeaways:\r\n\r\n- On-Device AI Landscape: Understand the shift from cloud to on-device AI, the privacy benefits, and real-world use cases for features like smart reply, summarization, image analysis, and more.\r\n- Getting Started with Gemini Nano: Walk through integrating Google\u2019s Gemini Nano generative model into a modern Android app, highlighting both ML Kit GenAI APIs and the experimental AI Edge SDK for custom scenarios.\r\n- Beyond Gemini: MediaPipe, LiteRT, and Custom Models: Explore the MediaPipe ecosystem for LLM (large language model) inference on-device, and how to bring your own models using LiteRT/TensorFlow Lite for specialized tasks.\r\n- Production Considerations: Address model size, device compatibility, privacy, and performance optimization\u2014lessons learned from deploying AI features at scale in consumer and enterprise Android apps.\r\n",
       "startsAt": "2025-11-10T12:05:00",
       "endsAt": "2025-11-10T12:50:00",
       "isServiceSession": false,
@@ -63,7 +63,7 @@
     {
       "id": "968790",
       "title": "A Deep Dive into WineSom, an (almost) Agentic Flutter App",
-      "description": "The term “agentic app” is everywhere these days but what does it mean for us as app developers? In this talk I look at what makes a Flutter application not only AI enabled but agentic through the example of a quirky wine themed chat app. \r\nI will demonstrate how WineSom, an agentic Flutter app, leverages the firebase_ai interface to enable dynamic, context-aware multi-turn chat conversations with an LLM of choice. True agentic behaviour is reached through the strategic integration of function calls, which empower the AI model to autonomously identify the need for, and orchestrate actions such as the retrieval of real-time proprietary data. \r\nThe resulting WineSom app succeeds at engaging the user in a meaningful conversation about wine, while contributing factual information about available stock that is not in the public domain.",
+      "description": "The term \u201cagentic app\u201d is everywhere these days but what does it mean for us as app developers? In this talk I look at what makes a Flutter application not only AI enabled but agentic through the example of a quirky wine themed chat app. \r\nI will demonstrate how WineSom, an agentic Flutter app, leverages the firebase_ai interface to enable dynamic, context-aware multi-turn chat conversations with an LLM of choice. True agentic behaviour is reached through the strategic integration of function calls, which empower the AI model to autonomously identify the need for, and orchestrate actions such as the retrieval of real-time proprietary data. \r\nThe resulting WineSom app succeeds at engaging the user in a meaningful conversation about wine, while contributing factual information about available stock that is not in the public domain.",
       "startsAt": "2025-11-10T14:00:00",
       "endsAt": "2025-11-10T14:45:00",
       "isServiceSession": false,
@@ -83,7 +83,7 @@
     {
       "id": "1027686",
       "title": "Peer-to-Peer Sync on Android: Building Offline-First Apps That Talk to Each Other",
-      "description": "In a world obsessed with cloud connectivity, what if your app could sync data directly with nearby devices, without hitting the cloud? This session introduces peer-to-peer (P2P) sync patterns for Android that enable apps to share data over LAN, Wi-Fi Direct, or BLE. We’ll walk through building resilient, offline-first apps where data flows between devices securely and automatically, perfect for field deployments, disaster zones, or privacy-focused use cases.\r\nWhether you’re building a logistics tool, health records app, or multiplayer experience. This talk will show you how to build apps that sync serverlessly!\r\nTowards the end, I will also showcase a very futuristic idea, where we will be using mesh topology to text offline just like WhatsApp. ",
+      "description": "In a world obsessed with cloud connectivity, what if your app could sync data directly with nearby devices, without hitting the cloud? This session introduces peer-to-peer (P2P) sync patterns for Android that enable apps to share data over LAN, Wi-Fi Direct, or BLE. We\u2019ll walk through building resilient, offline-first apps where data flows between devices securely and automatically, perfect for field deployments, disaster zones, or privacy-focused use cases.\r\nWhether you\u2019re building a logistics tool, health records app, or multiplayer experience. This talk will show you how to build apps that sync serverlessly!\r\nTowards the end, I will also showcase a very futuristic idea, where we will be using mesh topology to text offline just like WhatsApp. ",
       "startsAt": "2025-11-10T15:05:00",
       "endsAt": "2025-11-10T15:50:00",
       "isServiceSession": false,
@@ -103,7 +103,7 @@
     {
       "id": "1047088",
       "title": "Offline-First Web Apps: The Secret to Reliability",
-      "description": "If you're aiming for your app to go viral and scale seamlessly, one challenge remains constant: unpredictable network conditions in certain regions. \r\n\r\nEnsuring a smooth user experience despite these challenges is crucial. Offline-first web apps tackle this by prioritizing local data storage and syncing with servers only when online. \r\n\r\nIn this session, we’ll explore how IndexedDB, paired with modern JavaScript techniques, can revolutionize the way you build resilient, offline-capable web applications. \r\nWhether you’re just discovering IndexedDB or seeking ways to optimize its use, this talk will equip you with practical insights and tools to create dependable apps that work anytime, anywhere.",
+      "description": "If you're aiming for your app to go viral and scale seamlessly, one challenge remains constant: unpredictable network conditions in certain regions. \r\n\r\nEnsuring a smooth user experience despite these challenges is crucial. Offline-first web apps tackle this by prioritizing local data storage and syncing with servers only when online. \r\n\r\nIn this session, we\u2019ll explore how IndexedDB, paired with modern JavaScript techniques, can revolutionize the way you build resilient, offline-capable web applications. \r\nWhether you\u2019re just discovering IndexedDB or seeking ways to optimize its use, this talk will equip you with practical insights and tools to create dependable apps that work anytime, anywhere.",
       "startsAt": "2025-11-10T15:05:00",
       "endsAt": "2025-11-10T15:50:00",
       "isServiceSession": false,
@@ -143,7 +143,7 @@
     {
       "id": "1019358",
       "title": "AI-Augmented Master Data Governance in Healthcare: Smarter Stewardship with SAP S/4HANA",
-      "description": "Healthcare enterprises operate in one of the most data-intensive and regulated industries, where the accuracy of product, patient, and supplier data directly impacts compliance, patient safety, and speed to market. Yet, master data is often riddled with duplicates, inconsistencies, and regulatory gaps.\r\n\r\nThis session demonstrates how AI-powered Master Data Governance (MDG), integrated with SAP S/4HANA, can transform enterprise data stewardship. We will explore how machine learning and natural language processing can automatically validate master data quality, detect duplicates, and proactively surface inconsistencies in critical product datasets. By embedding predictive data scoring and intelligent anomaly detection, the framework reduces manual intervention, accelerates new product introductions, and ensures adherence to FDA and EMA requirements.\r\n\r\nDrawing on real-world healthcare enterprise deployments, we highlight measurable outcomes—reduced remediation efforts, improved compliance, and faster time-to-market for regulated products. Attendees will leave with actionable strategies for:\r\n\r\nEmbedding AI into MDG workflows for proactive governance.\r\n\r\nPrioritizing high-risk anomalies with intelligent recommendations.\r\n\r\nDesigning enterprise-grade data stewardship systems that are not just compliant, but business-ready and innovation-ready.\r\n\r\n",
+      "description": "Healthcare enterprises operate in one of the most data-intensive and regulated industries, where the accuracy of product, patient, and supplier data directly impacts compliance, patient safety, and speed to market. Yet, master data is often riddled with duplicates, inconsistencies, and regulatory gaps.\r\n\r\nThis session demonstrates how AI-powered Master Data Governance (MDG), integrated with SAP S/4HANA, can transform enterprise data stewardship. We will explore how machine learning and natural language processing can automatically validate master data quality, detect duplicates, and proactively surface inconsistencies in critical product datasets. By embedding predictive data scoring and intelligent anomaly detection, the framework reduces manual intervention, accelerates new product introductions, and ensures adherence to FDA and EMA requirements.\r\n\r\nDrawing on real-world healthcare enterprise deployments, we highlight measurable outcomes\u2014reduced remediation efforts, improved compliance, and faster time-to-market for regulated products. Attendees will leave with actionable strategies for:\r\n\r\nEmbedding AI into MDG workflows for proactive governance.\r\n\r\nPrioritizing high-risk anomalies with intelligent recommendations.\r\n\r\nDesigning enterprise-grade data stewardship systems that are not just compliant, but business-ready and innovation-ready.\r\n\r\n",
       "startsAt": "2025-11-10T16:00:00",
       "endsAt": "2025-11-10T16:45:00",
       "isServiceSession": false,
@@ -163,7 +163,7 @@
     {
       "id": "1002094",
       "title": "Myths That May Be Holding You Back from Pursuing Engineering Leadership",
-      "description": "When exploring leadership career paths, there might be some myths holding engineers back, some of which are completely baseless. My talk will cover such myths,\r\n\r\nMyth number 1: I need to increase my visibility (the worst advice one can give to someone to explore the leadership career path is ‘increase your visibility’) I will explain with examples how it’s an absolute myth\r\nMyth number 2: Only extroverts can succeed as managers (I will explain what are main areas of success for a manager and how being extrovert isn’t one of them)\r\nMyth number 3: I’m expected to never say no (I will explain how saying No to requests from outside the time can help a great deal in success of a manager and how saying yes all the time can be dangerous)\r\nMyth number 4: I’ll spend most of my time in meetings (I will explain how this role can influence a lot of changes on ways working in / out of a team including the number of meetings)\r\n[Bonus] Self Doubt: I’ll be viewed as technically less competent (I will challenge this notion with examples)\r\n\r\nKey takeaways and learning points\r\nDeeper understanding on what actually is a job of an engineering manager, what are the key skills required for the role, what are they key areas that will make the person successful\r\n\r\nExperience level with the topic\r\nExpert, I am head of engineering in my current role and hence I have several years of experience delivering features and leading teams.\r\nIn addition to my experience, I believe that my perspective as a woman can contribute meaningfully to this topic. I will do this talk in the Droidcon Berlin this year as well. \r\n",
+      "description": "When exploring leadership career paths, there might be some myths holding engineers back, some of which are completely baseless. My talk will cover such myths,\r\n\r\nMyth number 1: I need to increase my visibility (the worst advice one can give to someone to explore the leadership career path is \u2018increase your visibility\u2019) I will explain with examples how it\u2019s an absolute myth\r\nMyth number 2: Only extroverts can succeed as managers (I will explain what are main areas of success for a manager and how being extrovert isn\u2019t one of them)\r\nMyth number 3: I\u2019m expected to never say no (I will explain how saying No to requests from outside the time can help a great deal in success of a manager and how saying yes all the time can be dangerous)\r\nMyth number 4: I\u2019ll spend most of my time in meetings (I will explain how this role can influence a lot of changes on ways working in / out of a team including the number of meetings)\r\n[Bonus] Self Doubt: I\u2019ll be viewed as technically less competent (I will challenge this notion with examples)\r\n\r\nKey takeaways and learning points\r\nDeeper understanding on what actually is a job of an engineering manager, what are the key skills required for the role, what are they key areas that will make the person successful\r\n\r\nExperience level with the topic\r\nExpert, I am head of engineering in my current role and hence I have several years of experience delivering features and leading teams.\r\nIn addition to my experience, I believe that my perspective as a woman can contribute meaningfully to this topic. I will do this talk in the Droidcon Berlin this year as well. \r\n",
       "startsAt": "2025-11-11T09:30:00",
       "endsAt": "2025-11-11T10:15:00",
       "isServiceSession": false,
@@ -203,7 +203,7 @@
     {
       "id": "984409",
       "title": "Add Extra Functionality to Supercharge your Flutter Apps with Dart Extensions",
-      "description": "Description\r\nDart extensions are one of the most powerful yet overlooked features in Flutter development. In this talk, we’ll unlock how you can use them to supercharge your Flutter apps—writing cleaner, more maintainable, and more expressive code without modifying existing classes or third-party libraries.\r\n\r\nWhether you’re extending core types like String or DateTime, enhancing third-party packages, or injecting new life into Flutter widgets, this advanced session will show how Dart extensions can make your codebase smarter, DRYer, and easier to scale.\r\n\r\nWhat You’ll Learn:\r\n\t• Custom Power-Ups for Core Types: Add intuitive methods to String, DateTime, List, and others to clean up boilerplate and make your logic more expressive\r\n\t• No-Fork Enhancements: Extend third-party packages and Flutter widgets with your own logic—without modifying their source code\r\n\t• Advanced Patterns: Dive into generic, conditional, and scoped extensions for modular and scalable architecture\r\n\t• When & Why: Learn where Dart extensions outperform mixins, helpers, and even inheritance patterns in terms of performance, readability, and maintainability\r\n\t• Real-World Use Cases: Explore production examples from apps I’ve built—featuring UI extensions, state helpers, and utility methods for cleaner, more maintainable code\r\n\t• Live Demo – Build a Mini Cart App: Watch how all these techniques come together in a live-coded mini shopping cart app, demonstrating how to apply extensions to widgets, logic, and third-party libraries in real time\r\n\r\nSpeaker Bio\r\nI’m a passionate Flutter developer, UX thinker, and community speaker with over 5 years of experience building scalable cross-platform apps across fintech, education, and retail. I had the privilege of speaking at the previous Fluttercon Africa, where I shared advanced techniques in Flutter development — and I’m excited to return with even more insights.\r\n\r\nBeyond Fluttercon, I’ve delivered talks at numerous developer events across Africa on topics like clean architecture, Dart extensions, UI optimization, and real-world app development. You can explore some of my past sessions on my community profile.\r\n\r\nI love breaking down complex Flutter and Dart concepts into practical, actionable techniques that developers can use right away in their own projects. Whether it’s through the apps I’ve built like Calcut and Eduuka, or through my community talks, I’m always excited to share and learn together.\r\n\r\nKeywords: Dart Extensions, Flutter Architecture, Code Enhancement, Maintainable Code, Third-Party Packages, Advanced Flutter",
+      "description": "Description\r\nDart extensions are one of the most powerful yet overlooked features in Flutter development. In this talk, we\u2019ll unlock how you can use them to supercharge your Flutter apps\u2014writing cleaner, more maintainable, and more expressive code without modifying existing classes or third-party libraries.\r\n\r\nWhether you\u2019re extending core types like String or DateTime, enhancing third-party packages, or injecting new life into Flutter widgets, this advanced session will show how Dart extensions can make your codebase smarter, DRYer, and easier to scale.\r\n\r\nWhat You\u2019ll Learn:\r\n\t\u2022 Custom Power-Ups for Core Types: Add intuitive methods to String, DateTime, List, and others to clean up boilerplate and make your logic more expressive\r\n\t\u2022 No-Fork Enhancements: Extend third-party packages and Flutter widgets with your own logic\u2014without modifying their source code\r\n\t\u2022 Advanced Patterns: Dive into generic, conditional, and scoped extensions for modular and scalable architecture\r\n\t\u2022 When & Why: Learn where Dart extensions outperform mixins, helpers, and even inheritance patterns in terms of performance, readability, and maintainability\r\n\t\u2022 Real-World Use Cases: Explore production examples from apps I\u2019ve built\u2014featuring UI extensions, state helpers, and utility methods for cleaner, more maintainable code\r\n\t\u2022 Live Demo \u2013 Build a Mini Cart App: Watch how all these techniques come together in a live-coded mini shopping cart app, demonstrating how to apply extensions to widgets, logic, and third-party libraries in real time\r\n\r\nSpeaker Bio\r\nI\u2019m a passionate Flutter developer, UX thinker, and community speaker with over 5 years of experience building scalable cross-platform apps across fintech, education, and retail. I had the privilege of speaking at the previous Fluttercon Africa, where I shared advanced techniques in Flutter development \u2014 and I\u2019m excited to return with even more insights.\r\n\r\nBeyond Fluttercon, I\u2019ve delivered talks at numerous developer events across Africa on topics like clean architecture, Dart extensions, UI optimization, and real-world app development. You can explore some of my past sessions on my community profile.\r\n\r\nI love breaking down complex Flutter and Dart concepts into practical, actionable techniques that developers can use right away in their own projects. Whether it\u2019s through the apps I\u2019ve built like Calcut and Eduuka, or through my community talks, I\u2019m always excited to share and learn together.\r\n\r\nKeywords: Dart Extensions, Flutter Architecture, Code Enhancement, Maintainable Code, Third-Party Packages, Advanced Flutter",
       "startsAt": "2025-11-11T10:10:00",
       "endsAt": "2025-11-11T10:50:00",
       "isServiceSession": false,
@@ -263,7 +263,7 @@
     {
       "id": "991184",
       "title": "Smarter Android: Building Scalable AI-Driven Apps for Startups and Local Businesses",
-      "description": "As mobile usage grows across Africa, so does the demand for smarter, scalable Android apps that do more with less. In this session, we’ll explore how startups and indie developers can integrate lightweight yet powerful AI features — from smart recommendations to chat interfaces — using tools like Firebase ML, Gemini APIs, and on-device ML solutions. We’ll walk through how to design architecture that supports growth, even with limited budgets or infrastructure, while keeping performance and user experience at the core. Whether you’re building a delivery app, finance tool, or service marketplace, this talk will equip you with practical tools, design tips, and a scalable mindset to take your Android app to the next level — with AI as your co-pilot.",
+      "description": "As mobile usage grows across Africa, so does the demand for smarter, scalable Android apps that do more with less. In this session, we\u2019ll explore how startups and indie developers can integrate lightweight yet powerful AI features \u2014 from smart recommendations to chat interfaces \u2014 using tools like Firebase ML, Gemini APIs, and on-device ML solutions. We\u2019ll walk through how to design architecture that supports growth, even with limited budgets or infrastructure, while keeping performance and user experience at the core. Whether you\u2019re building a delivery app, finance tool, or service marketplace, this talk will equip you with practical tools, design tips, and a scalable mindset to take your Android app to the next level \u2014 with AI as your co-pilot.",
       "startsAt": "2025-11-11T11:25:00",
       "endsAt": "2025-11-11T12:05:00",
       "isServiceSession": false,
@@ -303,7 +303,7 @@
     {
       "id": "1027687",
       "title": "Offline-First, AI-Ready: Architecting Mobile Apps That Learn and Sync Smartly",
-      "description": "Modern mobile apps must do more than just work. They must work smartly, even when offline. (Think of common applications like Twitter or Instagram.) This talk will walk through building an AI-enhanced, offline-first architecture on Android using Jetpack and custom vector stores. You’ll learn how to integrate on-device LLMs, enable smooth bi-directional sync with backend stores, and adopt scalable syncing patterns used in real-world apps. We’ll also cover sync conflict resolution, data serialization formats, and an efficient approach to user-local data modeling. All without sacrificing performance.",
+      "description": "Modern mobile apps must do more than just work. They must work smartly, even when offline. (Think of common applications like Twitter or Instagram.) This talk will walk through building an AI-enhanced, offline-first architecture on Android using Jetpack and custom vector stores. You\u2019ll learn how to integrate on-device LLMs, enable smooth bi-directional sync with backend stores, and adopt scalable syncing patterns used in real-world apps. We\u2019ll also cover sync conflict resolution, data serialization formats, and an efficient approach to user-local data modeling. All without sacrificing performance.",
       "startsAt": "2025-11-11T12:10:00",
       "endsAt": "2025-11-11T12:55:00",
       "isServiceSession": false,
@@ -323,7 +323,7 @@
     {
       "id": "987622",
       "title": "CI/CD the Right Way: Accelerating Android Development with Smart Infrastructure",
-      "description": "With growth of our Android teams, complexities of collaboration, testing, and releasing at scale arise. In this talk we will  dive into how to design and implement CI/CD pipelines and infrastructure tailored for Android engineering, from first commit to production rollout.\r\nWe’ll explore practical strategies to speed up build times, enforce quality gates, manage test reliability, and reduce friction in release workflows. We’ll learn how to integrate tools like GitHub Actions, Bitbucket, Bitrise, Firebase App Distribution, and Gradle caching for faster feedback loops, as well as infrastructure patterns to support modular codebases, feature toggles, and canary releases. We will also learn how to integrate and automate Jira-Bitbucket/GitHub workflows.\r\nWhether you're working in a startup or an enterprise Android team, you'll walk away with actionable ideas to boost your development velocity while keeping confidence high. Let’s break down what it really takes to build CI/CD pipelines that scale with your team and product.",
+      "description": "With growth of our Android teams, complexities of collaboration, testing, and releasing at scale arise. In this talk we will  dive into how to design and implement CI/CD pipelines and infrastructure tailored for Android engineering, from first commit to production rollout.\r\nWe\u2019ll explore practical strategies to speed up build times, enforce quality gates, manage test reliability, and reduce friction in release workflows. We\u2019ll learn how to integrate tools like GitHub Actions, Bitbucket, Bitrise, Firebase App Distribution, and Gradle caching for faster feedback loops, as well as infrastructure patterns to support modular codebases, feature toggles, and canary releases. We will also learn how to integrate and automate Jira-Bitbucket/GitHub workflows.\r\nWhether you're working in a startup or an enterprise Android team, you'll walk away with actionable ideas to boost your development velocity while keeping confidence high. Let\u2019s break down what it really takes to build CI/CD pipelines that scale with your team and product.",
       "startsAt": "2025-11-11T13:55:00",
       "endsAt": "2025-11-11T14:40:00",
       "isServiceSession": false,
@@ -343,7 +343,7 @@
     {
       "id": "948359",
       "title": "Level Up Your Android Career: Core Skills and Strategies for Growth",
-      "description": "In a rapidly evolving tech world, technical skills alone aren’t enough to thrive as an Android developer. This session focuses on the core career skills, mindset shifts, and practical strategies Android developers need to level up professionally and navigate their career growth effectively. Drawing from my extensive experience coaching tech professionals across multiple countries, I’ll guide attendees on how to build essential soft skills, develop a growth mindset, and leverage continuous learning to unlock new opportunities in Android development.",
+      "description": "In a rapidly evolving tech world, technical skills alone aren\u2019t enough to thrive as an Android developer. This session focuses on the core career skills, mindset shifts, and practical strategies Android developers need to level up professionally and navigate their career growth effectively. Drawing from my extensive experience coaching tech professionals across multiple countries, I\u2019ll guide attendees on how to build essential soft skills, develop a growth mindset, and leverage continuous learning to unlock new opportunities in Android development.",
       "startsAt": "2025-11-11T14:00:00",
       "endsAt": "2025-11-11T14:35:00",
       "isServiceSession": false,
@@ -363,7 +363,7 @@
     {
       "id": "987855",
       "title": "The Hidden Cost of Copy-Paste: Why Your App Should Depend on People, Not Just Code",
-      "description": "In today’s fast-paced mobile development, it’s easy to copy-paste code or drop in open source libraries without a second thought but every dependency comes with people, context, and consequences. This talk explores the often-overlooked human side of open source, highlighting the importance of understanding the communities behind the code. Through real-world stories and practical insights, we’ll learn how to evaluate project health, engage with maintainers, and contribute meaningfully, even as consumers. By shifting our mindset from passive use to active participation, we can build more secure, resilient, and collaborative mobile apps.",
+      "description": "In today\u2019s fast-paced mobile development, it\u2019s easy to copy-paste code or drop in open source libraries without a second thought but every dependency comes with people, context, and consequences. This talk explores the often-overlooked human side of open source, highlighting the importance of understanding the communities behind the code. Through real-world stories and practical insights, we\u2019ll learn how to evaluate project health, engage with maintainers, and contribute meaningfully, even as consumers. By shifting our mindset from passive use to active participation, we can build more secure, resilient, and collaborative mobile apps.",
       "startsAt": "2025-11-11T14:40:00",
       "endsAt": "2025-11-11T15:20:00",
       "isServiceSession": false,
@@ -383,7 +383,7 @@
     {
       "id": "1014545",
       "title": "Reinventing Insurance with Microservices: API-First Strategies for Faster, Smarter Policy Management",
-      "description": "The insurance industry is undergoing a radical shift from legacy systems to modern, API-driven platforms that prioritize speed, scalability, and customer experience. With the global insurtech market projected to reach USD 146.43 billion by 2030, insurers embracing microservices and API-first strategies are setting new benchmarks in digital transformation.\r\n\r\nBy breaking down monolithic platforms into 35–45 microservices, leading carriers have accelerated testing cycles by up to 80% and cut new product launch timelines from 18 months to just a few months. Secure API ecosystems now process nearly two billion monthly transactions across 120–180 active APIs—slashing data errors by 94% and driving system uptime to 99.98%.\r\n\r\nThese modernization efforts are not just technical wins—they transform operations. Automated workflows and real-time data validation have reduced claims processing from 10+ days to under 3, while digital triage routes the majority of claims without human intervention. Massive migrations, such as Allianz’s 28 million policies moved in just 14 months, prove that large-scale change can be achieved without service disruption.\r\n\r\nThis session will equip developers, architects, and tech leaders with actionable strategies for:\r\n\r\nDesigning phased digital transformation roadmaps\r\n\r\nBuilding secure, scalable microservices and API-first ecosystems\r\n\r\nExecuting high-volume data migrations with minimal risk\r\n\r\nDigital transformation in insurance is no longer optional—it’s the foundation for faster underwriting, improved customer experiences, and long-term market leadership.",
+      "description": "The insurance industry is undergoing a radical shift from legacy systems to modern, API-driven platforms that prioritize speed, scalability, and customer experience. With the global insurtech market projected to reach USD 146.43 billion by 2030, insurers embracing microservices and API-first strategies are setting new benchmarks in digital transformation.\r\n\r\nBy breaking down monolithic platforms into 35\u201345 microservices, leading carriers have accelerated testing cycles by up to 80% and cut new product launch timelines from 18 months to just a few months. Secure API ecosystems now process nearly two billion monthly transactions across 120\u2013180 active APIs\u2014slashing data errors by 94% and driving system uptime to 99.98%.\r\n\r\nThese modernization efforts are not just technical wins\u2014they transform operations. Automated workflows and real-time data validation have reduced claims processing from 10+ days to under 3, while digital triage routes the majority of claims without human intervention. Massive migrations, such as Allianz\u2019s 28 million policies moved in just 14 months, prove that large-scale change can be achieved without service disruption.\r\n\r\nThis session will equip developers, architects, and tech leaders with actionable strategies for:\r\n\r\nDesigning phased digital transformation roadmaps\r\n\r\nBuilding secure, scalable microservices and API-first ecosystems\r\n\r\nExecuting high-volume data migrations with minimal risk\r\n\r\nDigital transformation in insurance is no longer optional\u2014it\u2019s the foundation for faster underwriting, improved customer experiences, and long-term market leadership.",
       "startsAt": "2025-11-11T15:30:00",
       "endsAt": "2025-11-11T16:00:00",
       "isServiceSession": false,
@@ -403,7 +403,7 @@
     {
       "id": "1019546",
       "title": "Go with the Flow",
-      "description": "Kotlin Flow is an implementation of Reactive Stream specification made on top of coroutines for Kotlin.\r\n\r\nIn this talk, we will look at Kotlin Flow, it's internals, how to use it with on Android or any other platforms, and share how you can migrate to Flow\r\n\r\nAgenda\r\n- Quick intro to Flow\r\n- Internals of Kotlin Flow\r\n- Using Flow on Android and other platforms\r\n- Why and how to migrate\r\n- Working with existing reactive streams ❤ Flow in single codebase\r\n- Effectively using Flows with Compose\r\n- Magic of multi-platform\r\n- Tests\r\n- Conclusion\r\n\r\nYou’ll walk away with a clear idea of what Kotlin Flow and how it works internally and how you can level up your reactive game",
+      "description": "Kotlin Flow is an implementation of Reactive Stream specification made on top of coroutines for Kotlin.\r\n\r\nIn this talk, we will look at Kotlin Flow, it's internals, how to use it with on Android or any other platforms, and share how you can migrate to Flow\r\n\r\nAgenda\r\n- Quick intro to Flow\r\n- Internals of Kotlin Flow\r\n- Using Flow on Android and other platforms\r\n- Why and how to migrate\r\n- Working with existing reactive streams \u2764 Flow in single codebase\r\n- Effectively using Flows with Compose\r\n- Magic of multi-platform\r\n- Tests\r\n- Conclusion\r\n\r\nYou\u2019ll walk away with a clear idea of what Kotlin Flow and how it works internally and how you can level up your reactive game",
       "startsAt": "2025-11-11T15:35:00",
       "endsAt": "2025-11-11T16:20:00",
       "isServiceSession": false,
@@ -448,7 +448,7 @@
       "lastName": "Nabil",
       "bio": "Founder and Leader Of Kotlin Egypt, first and largest Kotlin community in Egypt,\r\nhelped 100K+ know about Kotlin, Android, and general programming. Created  \"Learn Programming\" initiative helped 500+ people from Egypt, Gulf, UK and more, Joined 1M Arab coders as a mentor, \r\ncurrently: Senior Software Tech Lead at Vodafone _VOIS, Previously, worked at HungerStation, Gen. C., and more.\u2028\u2028\r\nSocial Links:\u2028https://linktr.ee/AhmedNMahran\r\n\r\nhttps://linkedIn.com/company/KotlinEgypt ",
       "tagLine": "Senior Software Tech Lead at Vodafone, Founder of Kotlin Egypt",
-      "profilePicture": "https://cdn.sessionize.com/image/0daf-400o400o1-PRkZSWVVvbupkN6SbDWRrN.jpg",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/d301377d-23d5-46b6-9b4f-ddb75e2d801d.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -473,9 +473,9 @@
       "id": "a82de654-53d7-4c16-989a-5efddf36983e",
       "firstName": "Akshay",
       "lastName": "Chordiya",
-      "bio": "Akshay Chordiya is Google Developer Expert for Android & Kotlin | Android Developer @ Tinder ❤️ and Kotlin Enthusiast.\r\nHe is an active community speaker who is mostly found talking about Android and Kotlin. He is an avid blogger and author of “Kotlin Blueprints” book and instructor at Caster.IO",
+      "bio": "Akshay Chordiya is Google Developer Expert for Android & Kotlin | Android Developer @ Tinder \u2764\ufe0f and Kotlin Enthusiast.\r\nHe is an active community speaker who is mostly found talking about Android and Kotlin. He is an avid blogger and author of \u201cKotlin Blueprints\u201d book and instructor at Caster.IO",
       "tagLine": "Android Developer @ Tinder | Co-Author of Kotlin Blueprints",
-      "profilePicture": "https://cdn.sessionize.com/image/f68a-400o400o1-54-53d7-4c16-989a-5efddf36983e.80e8c68a-14d0-4ee8-8aa6-bb6b1f39936b.png",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/a82de654-53d7-4c16-989a-5efddf36983e.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -500,9 +500,9 @@
       "id": "e59836ac-2144-4617-a39f-7dfe7d77cdb0",
       "firstName": "Anselmo",
       "lastName": "Alexandre",
-      "bio": "Olá 👋🏿,\r\nMy name is Anselmo Alexandre\r\nI am a Sr. Android Engineer at Snapp Mobile Germany.\r\nEveryday making people's life easier using tech.\r\n",
+      "bio": "Ol\u00e1 \ud83d\udc4b\ud83c\udfff,\r\nMy name is Anselmo Alexandre\r\nI am a Sr. Android Engineer at Snapp Mobile Germany.\r\nEveryday making people's life easier using tech.\r\n",
       "tagLine": "Android @SnappMobile ",
-      "profilePicture": "https://cdn.sessionize.com/image/0b47-400o400o1-Q59dUPHHfaUHw9byLVs8n4.png",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/e59836ac-2144-4617-a39f-7dfe7d77cdb0.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -529,7 +529,7 @@
       "lastName": "Letaru",
       "bio": "Caroline Nicole Letaru is a seasoned Career Coach and Talent Strategist at Kazini Consults, with over 6+ years of experience empowering tech professionals across 12 countries. She specializes in helping developers and tech talents elevate their careers through skill development, strategic career planning, and effective talent sourcing. With a strong background in technical recruiting and HR management, Nicole has successfully guided hundreds of professionals to build core skills, navigate career transitions, and achieve measurable career growth in the dynamic tech industry.",
       "tagLine": "Kazini Consults | Career Coach & Talent Strategist | Empowering Tech Professionals to Level Up",
-      "profilePicture": "https://cdn.sessionize.com/image/b1a6-400o400o1-sxSdMijWvFSynGG7CaJ4MC.jpg",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/49794b06-6c8b-4c6e-9b0a-fe65f2388fe9.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -551,7 +551,7 @@
       "lastName": "Brian Mugisa",
       "bio": "Hi, my name is Mugisa Brian, but you can call me Cephas. I'm a software engineer with experience in cross-platform app development, and I'm also passionate about graphics and UX design. I love using my skills to create experiences that make people's lives better. Am glad you checked me out here!",
       "tagLine": "Innovative Software Engineer",
-      "profilePicture": "https://cdn.sessionize.com/image/739f-400o400o1-HPjW51PvrTQhPiEj71AJQb.jpg",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/f70fd7fe-2dc5-48af-a9b2-ba89d368cf7c.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -578,7 +578,7 @@
       "lastName": "Assigbe",
       "bio": "Chris is a Developer Relations Engineer on the Android team. \r\nHe is passionate about technology and its intersection with society advancement. \r\nHe is also a huge home automation nerd and can be found tinkering with a new more advanced automation on the weekends.",
       "tagLine": "Android Developer Relations Engineer @ Google",
-      "profilePicture": "https://cdn.sessionize.com/image/ccb4-400o400o1-RKi8ip9YVmJ5YY1BTPxpAv.jpg",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/ecd35d14-91dc-4ce6-a6db-fd7a26424a36.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -603,9 +603,9 @@
       "id": "376ce85a-714a-4bfc-a609-8d98334c0180",
       "firstName": "Dinoy",
       "lastName": "Raj",
-      "bio": "Product-focused Android developer with strong expertise in Jetpack Compose, Kotlin, and modern Android architecture. I specialize in building scalable, high-performance mobile apps with modular structures, efficient CI/CD pipelines, and delightful user experiences.\r\n\r\nCurrently leading Android development at Strollby, crafting next-gen travel experiences across hotel, flight, and activity bookings. My work spans multi-module architecture, Apollo GraphQL, payment integrations, and deep UI performance optimizations. I’m also exploring on-device AI with Gemini Nano to integrate intelligent, privacy-focused features—experimenting with real-time, offline-capable functionalities like personalized recommendations and dynamic content processing directly on the device.\r\n\r\nI’ll also be speaking at Droidcon Uganda'25 and Droidcon Abu Dhabi'25, sharing insights on building AI-enhanced Android experiences with Jetpack Compose and on-device intelligence.",
-      "tagLine": "Product Engineer – Android @ Strollby | Droidcon Uganda ’25 & Droidcon Abu Dhabi Speaker",
-      "profilePicture": "https://cdn.sessionize.com/image/6ad4-400o400o1-WhSLcgejBm4x3DBxYbtb5r.jpg",
+      "bio": "Product-focused Android developer with strong expertise in Jetpack Compose, Kotlin, and modern Android architecture. I specialize in building scalable, high-performance mobile apps with modular structures, efficient CI/CD pipelines, and delightful user experiences.\r\n\r\nCurrently leading Android development at Strollby, crafting next-gen travel experiences across hotel, flight, and activity bookings. My work spans multi-module architecture, Apollo GraphQL, payment integrations, and deep UI performance optimizations. I\u2019m also exploring on-device AI with Gemini Nano to integrate intelligent, privacy-focused features\u2014experimenting with real-time, offline-capable functionalities like personalized recommendations and dynamic content processing directly on the device.\r\n\r\nI\u2019ll also be speaking at Droidcon Uganda'25 and Droidcon Abu Dhabi'25, sharing insights on building AI-enhanced Android experiences with Jetpack Compose and on-device intelligence.",
+      "tagLine": "Product Engineer \u2013 Android @ Strollby | Droidcon Uganda \u201925 & Droidcon Abu Dhabi Speaker",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/376ce85a-714a-4bfc-a609-8d98334c0180.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -630,9 +630,9 @@
       "id": "4800b6e6-c880-40ac-9190-c18225d92938",
       "firstName": "Indu Priya",
       "lastName": "Uppala",
-      "bio": "Indu Priya Uppala is a highly accomplished Project and Product Manager with over 16 years of experience delivering transformative technology solutions across the insurance, telecommunications, and logistics industries. Currently pursuing an Executive MBA at Georgia Tech, she brings a unique combination of strategic leadership and deep technical expertise to drive large-scale digital transformation initiatives. Indu has spearheaded end-to-end programs for major insurers, including the successful migration of millions of active and inactive policies, the implementation of Salesforce-driven agent portals, microservices-based architectures, and secure API ecosystems that enhance policy lifecycle management. Her experience includes leading cross-functional teams of 20–25 members across onshore and offshore models, orchestrating data governance, UAT, and large-scale system integrations to optimize performance and ensure regulatory compliance. Recognized for her ability to combine innovation with operational excellence, she has delivered measurable outcomes such as cutting claims processing times by more than 70%, streamlining agent workflows, and improving overall system reliability for Fortune 500 clients like John Hancock, TIAA CREF, and MetLife. With expertise spanning Java development, cloud platforms like AWS and Azure, and advanced DevOps practices, Indu excels at transforming complex legacy ecosystems into agile, scalable digital environments. Passionate about mentoring teams and fostering collaboration, she is committed to helping organizations achieve sustainable growth, operational efficiency, and a competitive edge through technology-driven solutions.\r\n",
+      "bio": "Indu Priya Uppala is a highly accomplished Project and Product Manager with over 16 years of experience delivering transformative technology solutions across the insurance, telecommunications, and logistics industries. Currently pursuing an Executive MBA at Georgia Tech, she brings a unique combination of strategic leadership and deep technical expertise to drive large-scale digital transformation initiatives. Indu has spearheaded end-to-end programs for major insurers, including the successful migration of millions of active and inactive policies, the implementation of Salesforce-driven agent portals, microservices-based architectures, and secure API ecosystems that enhance policy lifecycle management. Her experience includes leading cross-functional teams of 20\u201325 members across onshore and offshore models, orchestrating data governance, UAT, and large-scale system integrations to optimize performance and ensure regulatory compliance. Recognized for her ability to combine innovation with operational excellence, she has delivered measurable outcomes such as cutting claims processing times by more than 70%, streamlining agent workflows, and improving overall system reliability for Fortune 500 clients like John Hancock, TIAA CREF, and MetLife. With expertise spanning Java development, cloud platforms like AWS and Azure, and advanced DevOps practices, Indu excels at transforming complex legacy ecosystems into agile, scalable digital environments. Passionate about mentoring teams and fostering collaboration, she is committed to helping organizations achieve sustainable growth, operational efficiency, and a competitive edge through technology-driven solutions.\r\n",
       "tagLine": "Infosys McCamish",
-      "profilePicture": "https://cdn.sessionize.com/image/3128-400o400o1-w7wFksjJcrSawJ85mUztJU.jpg",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/4800b6e6-c880-40ac-9190-c18225d92938.jpg",
       "isTopSpeaker": false,
       "links": [],
       "sessions": [
@@ -646,9 +646,9 @@
       "id": "ecf88eef-27b3-4b0f-af79-1350ecfcc5e7",
       "firstName": "Joshua",
       "lastName": "Musyoki",
-      "bio": "Joshua Musyoki is an Android Engineer at Transsion Kenya, where he crafts clean and scalable mobile solutions used by real users. He builds not just for developers, but for real users — with a strong focus on performance, usability, and impact at scale. Passionate about developer tools, open-source, and clean architecture, Joshua is currently exploring how to simplify Android development by building reusable libraries and improving developer experience (DX). A firm believer in continuous learning, he’s always evolving — whether it’s through mentoring, contributing to community projects, or staying on the edge of Android’s ever-growing ecosystem. For Joshua, it’s all about building for builders — and making tools that matter.",
+      "bio": "Joshua Musyoki is an Android Engineer at Transsion Kenya, where he crafts clean and scalable mobile solutions used by real users. He builds not just for developers, but for real users \u2014 with a strong focus on performance, usability, and impact at scale. Passionate about developer tools, open-source, and clean architecture, Joshua is currently exploring how to simplify Android development by building reusable libraries and improving developer experience (DX). A firm believer in continuous learning, he\u2019s always evolving \u2014 whether it\u2019s through mentoring, contributing to community projects, or staying on the edge of Android\u2019s ever-growing ecosystem. For Joshua, it\u2019s all about building for builders \u2014 and making tools that matter.",
       "tagLine": "Transsion Kenya, Android Engineer.",
-      "profilePicture": "https://cdn.sessionize.com/image/5b3f-400o400o1-Gk4GNRmbi5qWyieioYTkgT.png",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/ecf88eef-27b3-4b0f-af79-1350ecfcc5e7.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -673,9 +673,9 @@
       "id": "0e37c827-9e98-40cd-bd1b-6d0c7615ed78",
       "firstName": "Joydip",
       "lastName": "Basu",
-      "bio": "Joydip Basu is a seasoned IT leader with over 19 years of expertise in SAP enterprise solutions, specializing in global program execution and digital transformation within the healthcare and life sciences sectors. He is widely recognized for leading cross-functional teams across geographies and delivering large-scale ERP implementations, including SAP S/4HANA, ECC Suite on HANA, APO, and GTS, seamlessly integrated with cloud platforms such as Salesforce, AWS, and MuleSoft.\r\nThroughout his career, Joydip has architected and executed end-to-end ERP transformations that drive operational excellence, regulatory compliance, and process optimization for global enterprises. His work consistently meets stringent regulatory standards such as FDA and HIPAA, ensuring IT system readiness in highly regulated, mission-critical environments.\r\nJoydip’s portfolio includes leadership roles in strategic initiatives at industry leaders including Gilead Sciences, Jabil Healthcare, IBM, and Tata Steel. He holds a Master’s degree in Business Administration and is SAP-certified in Supply Chain Management. With a unique combination of strategic insight and technical depth, Joydip is committed to delivering innovative, high-impact solutions that enable organizations to scale, modernize, and thrive in dynamic markets.\r\n\r\n\r\n",
+      "bio": "Joydip Basu is a seasoned IT leader with over 19 years of expertise in SAP enterprise solutions, specializing in global program execution and digital transformation within the healthcare and life sciences sectors. He is widely recognized for leading cross-functional teams across geographies and delivering large-scale ERP implementations, including SAP S/4HANA, ECC Suite on HANA, APO, and GTS, seamlessly integrated with cloud platforms such as Salesforce, AWS, and MuleSoft.\r\nThroughout his career, Joydip has architected and executed end-to-end ERP transformations that drive operational excellence, regulatory compliance, and process optimization for global enterprises. His work consistently meets stringent regulatory standards such as FDA and HIPAA, ensuring IT system readiness in highly regulated, mission-critical environments.\r\nJoydip\u2019s portfolio includes leadership roles in strategic initiatives at industry leaders including Gilead Sciences, Jabil Healthcare, IBM, and Tata Steel. He holds a Master\u2019s degree in Business Administration and is SAP-certified in Supply Chain Management. With a unique combination of strategic insight and technical depth, Joydip is committed to delivering innovative, high-impact solutions that enable organizations to scale, modernize, and thrive in dynamic markets.\r\n\r\n\r\n",
       "tagLine": "West bengal university of Technology",
-      "profilePicture": "https://cdn.sessionize.com/image/369f-400o400o1-PnjLuyJpRA6BhLv6dQaX3U.jpg",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/0e37c827-9e98-40cd-bd1b-6d0c7615ed78.jpg",
       "isTopSpeaker": false,
       "links": [],
       "sessions": [
@@ -689,9 +689,9 @@
       "id": "c983ea9a-0e76-4983-814c-7fe2aba1d703",
       "firstName": "Kenneth",
       "lastName": "Mathari",
-      "bio": "I'm a passionate Mobile Developer with a strong focus on Kotlin and Kotlin Multiplatform. I’ve spent the last few years building high-quality Android apps and cross-platform solutions that prioritize clean architecture, great user experiences, and scalable codebases. I’m also a strong advocate for open source, and I enjoy exploring how community-driven libraries can accelerate mobile development and bring developers together.\r\n",
+      "bio": "I'm a passionate Mobile Developer with a strong focus on Kotlin and Kotlin Multiplatform. I\u2019ve spent the last few years building high-quality Android apps and cross-platform solutions that prioritize clean architecture, great user experiences, and scalable codebases. I\u2019m also a strong advocate for open source, and I enjoy exploring how community-driven libraries can accelerate mobile development and bring developers together.\r\n",
       "tagLine": "Mobile Developer | Kotlin",
-      "profilePicture": "https://cdn.sessionize.com/image/c5a2-400o400o1-hFNXFiyJw3s9S2tCkmzL3h.jpg",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/c983ea9a-0e76-4983-814c-7fe2aba1d703.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -718,7 +718,7 @@
       "lastName": "Wendland",
       "bio": "Markus is a seasoned software developer with 30 years of experience, starting as a curious script kiddie and growing into a tech expert. Having witnessed the rapid evolution of the industry, he now shares not only technical insights but also a crucial perspective on mental health in software development. Drawing from his own experiences navigating the highs and lows of a demanding career, Markus delivers honest, thought-provoking talks that encourage open conversations about well-being in tech. His mission is to help developers build not just better software, but also healthier, more sustainable careers.",
       "tagLine": "Software Craftsman at iits consulting",
-      "profilePicture": "https://cdn.sessionize.com/image/9610-400o400o1-hpUP4svCPJu4jGnajhnRvy.jpg",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/e3f6530b-498e-4cca-bea9-a2025f0dc082.jpg",
       "isTopSpeaker": false,
       "links": [],
       "sessions": [
@@ -733,8 +733,8 @@
       "firstName": "Mrinal",
       "lastName": "Jain",
       "bio": "Mrinal Jain is an Engineering Manager at STAGE OTT with 7+ years of experience building scalable full-stack and Flutter applications. A recognized tech speaker and Meta Community Lead, he has led impactful developer communities and shared insights at major tech events. Known as the Introvert Influencer, Mrinal combines deep technical expertise with community-first leadership to empower developers and scale product success.",
-      "tagLine": "Flutter Indore - Lead Organiser | 🚀 FullStack Developer | Lead Software Engineer @STAGE (Ft. SharkTank India) | Tech Speaker | Community Manager @Meta | Organiser Flutter Indore | Mozilla Rep ",
-      "profilePicture": "https://cdn.sessionize.com/image/6925-400o400o1-ZYu4d6wZJsGWUCWQ2CPoi.jpg",
+      "tagLine": "Flutter Indore - Lead Organiser | \ud83d\ude80 FullStack Developer | Lead Software Engineer @STAGE (Ft. SharkTank India) | Tech Speaker | Community Manager @Meta | Organiser Flutter Indore | Mozilla Rep ",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/8cfdafe0-76d2-4111-93f5-d51f4b6c9c43.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -759,9 +759,9 @@
       "id": "6ed024a5-83d5-4d73-88d8-5cd821cd2bbf",
       "firstName": "Paul",
       "lastName": "Edward",
-      "bio": "A Senior Software Developer with over twelve years of experience with having a Diploma in Computer Science, A certified pen tester, I have developed software with high standards and interacted with multiple stakeholders from technical and non-technical backgrounds, ensuring clarity, quality, and continuous delivery. \r\n\r\nMy quest for excellence led me to Koenig solution Dubai to become certified in ethical hacking. Hence, my expertise in pen-testing, application security and cloud deployment.\r\n\r\nI am a self-starter with a proven ability to leverage multiple technologies to build interactive and innovative applications.\r\n\r\nI’m a builder of Communities, Professional Trainer, Prolific Writer, Technology Advocate and creator of intuitive, exciting and impactful technology solutions.\r\n\r\nI am continuously in awe of technology and people interaction. How do we break up complex problems into understandable and sizeable bits, solve daily challenges with technology, build better communities and inspire people to stand on the shoulder of giants?",
+      "bio": "A Senior Software Developer with over twelve years of experience with having a Diploma in Computer Science, A certified pen tester, I have developed software with high standards and interacted with multiple stakeholders from technical and non-technical backgrounds, ensuring clarity, quality, and continuous delivery. \r\n\r\nMy quest for excellence led me to Koenig solution Dubai to become certified in ethical hacking. Hence, my expertise in pen-testing, application security and cloud deployment.\r\n\r\nI am a self-starter with a proven ability to leverage multiple technologies to build interactive and innovative applications.\r\n\r\nI\u2019m a builder of Communities, Professional Trainer, Prolific Writer, Technology Advocate and creator of intuitive, exciting and impactful technology solutions.\r\n\r\nI am continuously in awe of technology and people interaction. How do we break up complex problems into understandable and sizeable bits, solve daily challenges with technology, build better communities and inspire people to stand on the shoulder of giants?",
       "tagLine": "CTO - Afrinvest West Africa",
-      "profilePicture": "https://cdn.sessionize.com/image/55ff-400o400o1-9Q6kHN9Eg6aTcUrHWidJx8.png",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/6ed024a5-83d5-4d73-88d8-5cd821cd2bbf.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -783,7 +783,7 @@
       "lastName": "Mayero",
       "bio": "Paul is an experienced  developer with over 5 years of professional experience in software development. He is highly skilled in building scalable and secure web applications using various technologies.\r\n\r\nPaul is an active member of the open-source community and has contributed to various open-source projects such as F-Droid and Open stack. He is passionate about helping other developers learn and grow, and he enjoys mentoring junior developers and sharing his knowledge and expertise with others.\r\n\r\n",
       "tagLine": "Open-source believer",
-      "profilePicture": "https://cdn.sessionize.com/image/5f79-400o400o1-H4ydW8rRe2xuWysmDKyNgb.jpg",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/ccbaae44-9566-4621-a64e-aaa4358a6e6b.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -805,7 +805,7 @@
       "lastName": "Midha",
       "bio": "Pulkit Midha is a mobile developer and technical evangelist passionate about offline-first architecture, real-time sync, and intelligent client-side experiences. He has worked on cross-platform apps, AR/VR products, and AI-integrated systems. A GSoC alumnus and frequent hackathon winner, Pulkit is focused on building resilient mobile solutions and growing open developer communities.",
       "tagLine": "Senior Mobile Developer at Couchbase",
-      "profilePicture": "https://cdn.sessionize.com/image/4066-400o400o1-Na8awW4dPwdG6yP4crbry.png",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/5ad21508-5c60-4a16-80c5-0dc5dcb0f673.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -833,7 +833,7 @@
       "lastName": "Adewumi",
       "bio": "Saheed Adewumi is a Google Developer Expert (GDE) and a leading Community Developer Advocate, specializing in full-stack architecture and multi-cloud engineering. I am deeply committed to building software the right way, leveraging principles like Domain-Driven Design (DDD) and Clean Architecture to ensure mobile and cloud-native solutions are scalable, maintainable, and aligned with core business logic.\r\n\r\nAs Co-founder of QTSolution Services, I operate at the intersection of innovation and infrastructure. My core focus is architecting resilient, multi-cloud native systems and software development.\r\n\r\nWhether I'm hands-on building with AI, leading advanced technical workshops, or teaching best practices for clean code and architecture, my mission is to translate bold ideas into sustainable technological impact. ",
       "tagLine": "GDE & Co-Founder QTSolution",
-      "profilePicture": "https://cdn.sessionize.com/image/486d-400o400o1-3aiuMKBGv8U3ZNo21o4XWo.png",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/9b82f835-d732-493f-8b46-ac922ad828c6.png",
       "isTopSpeaker": false,
       "links": [
         {
@@ -860,7 +860,7 @@
       "lastName": "Aricha",
       "bio": "An Engineer who loves to debug and learn.",
       "tagLine": "Mobile Engineer @ Intersoft Eagles Systems",
-      "profilePicture": "https://cdn.sessionize.com/image/b92e-400o400o1-LDkQ5TnyitkMESn8F1uMPB.jpg",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/824948c5-9ce9-4ba6-b55f-79f466936659.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -886,9 +886,9 @@
       "id": "56adf989-f244-4fad-84b8-e91ddfdaa899",
       "firstName": "Sylvia",
       "lastName": "Dieckmann",
-      "bio": "Sylvia is a Google Developer Expert for Flutter/Dart. Her preferred professional role includes some IT management but also enough hands-on development work to keep her dev skills sharp. Her main interest lies in exploring new technologies in the space of mobile apps and web technologies. She is currently playing with Flutter, Firebase, and some ML for Android but might change focus as new technologies pop up. \r\nSylvia divides her time between South Africa and Germany. She is a Women Techmaker (WTM) Ambassador and an active member of the GDG Cape Town chapter. She is a frequent speaker at GDG events and aims to support the developer community through mentoring and events.",
+      "bio": "Sylvia is a Google Developer Expert for Flutter/Dart. Her preferred professional role includes some IT management but also enough hands-on development work to keep her dev skills sharp. Her main interest lies in exploring new technologies in the space of mobile apps and web technologies. She is currently playing with Flutter, Firebase, and some ML for Android but might change focus as new technologies pop up.\u00a0\r\nSylvia divides her time between South Africa and Germany. She is a Women Techmaker (WTM) Ambassador and an active member of the GDG Cape Town chapter. She is a frequent speaker at GDG events and aims to support the developer community through mentoring and events.",
       "tagLine": "Mobile App Developer, GDE Flutter/Dart",
-      "profilePicture": "https://cdn.sessionize.com/image/845b-400o400o1-3zB5h5sVvW5HZ65wcDcJup.jpg",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/56adf989-f244-4fad-84b8-e91ddfdaa899.jpg",
       "isTopSpeaker": false,
       "links": [
         {
@@ -913,9 +913,9 @@
       "id": "40f372c7-cf37-43e8-b92b-b18d3cd79b08",
       "firstName": "Zoe",
       "lastName": "Farooq",
-      "bio": "Hi, I am Zoe. A musician by ❤️, working as an Engineering Manager at DeliveryHero. Living in Berlin, 'trying' to learn German.",
+      "bio": "Hi, I am Zoe. A musician by \u2764\ufe0f, working as an Engineering Manager at DeliveryHero. Living in Berlin, 'trying' to learn German.",
       "tagLine": "Engineering Lead @ DeliveryHero",
-      "profilePicture": "https://cdn.sessionize.com/image/4b09-400o400o1-GRZnD1qmt6HS3VVeuxgcpQ.JPG",
+      "profilePicture": "https://raw.githubusercontent.com/Carthigan-Open-Source/droidcon-uganda-data/main/data/2025/images/40f372c7-cf37-43e8-b92b-b18d3cd79b08.jpg",
       "isTopSpeaker": false,
       "links": [
         {
